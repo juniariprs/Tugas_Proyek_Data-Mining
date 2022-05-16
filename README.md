@@ -1,4 +1,5 @@
-# Tugas-Proyek-Data-Mining
+# Tugas-Proyek-Data-Mining 
+Penerapan Multiple Linear Regression pada dataset Women Entrepreneurship and Labor Force untuk mengetahui nilai korelasi tertinggi dari atribut-atribut tertentu terhadap atribut target Entrepreneurship Index dan menemukan formula regresi untuk prediksi nilai atribut target Entrepreneurship Index.
 
 Nama Anggota Kelompok:
 
